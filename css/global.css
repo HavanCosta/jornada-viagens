@@ -81,8 +81,7 @@ body {
 }
 
 @media screen and (min-widht: 1024px) {
-  .button:hover{
+  .button:hover {
     background-color: var(--primary-color);
-  }
   }
 }
